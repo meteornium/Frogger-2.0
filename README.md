@@ -2,7 +2,7 @@
 Unity live project where Frogger was recreated in the Unity engine.
 
 ## Frogger Screens
-First part of the project was creating the screens for Frogger. Each were made within Unity, and movement between them was controlled by using buttons and a SceneLoader Prefab
+First part of the project was creating the screens for Frogger. Each were made within Unity, and movement between them was controlled by using buttons and a SceneLoader Prefab.
 
 Transition from start screen to level screen with fade-in and out thanks to SceneLoader Prefab:
 
