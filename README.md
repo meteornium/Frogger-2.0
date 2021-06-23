@@ -14,7 +14,7 @@ Player movement is controlled through the arrow keys. Scripts are included to pr
 Example of Frogger getting hit by a car and getting the "Game Over" screen:
 ![](https://media.giphy.com/media/EQw7LUeYrOMzthoXSC/giphy.gif)
 
-Example of Frogger winning the level and transitioning to the "YOU WON" screen:
+Example of Frogger winning the level and transitioning to the "YOU WIN!" screen:
 ![](https://media.giphy.com/media/HLIA0d91PHEc055qg1/giphy.gif)
 
 ## Car Movement and Spawning
