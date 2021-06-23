@@ -26,7 +26,7 @@ Example of cars spawning having a limit due to the object pooling. Shows that th
 
 Close up of Hierarchy tab:
 
-1[](https://media.giphy.com/media/gR1duHqnRXNJ0UnWMH/giphy.gif)
+![](https://media.giphy.com/media/gR1duHqnRXNJ0UnWMH/giphy.gif)
 
 ## Spritework
 All spritework was created by me, and it was made within Aseprite. The frog, car, and yellow lines were all made within Aseperite.
