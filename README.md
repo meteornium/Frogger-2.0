@@ -15,7 +15,7 @@ Example of Frogger getting hit by a car and getting the "Game Over" screen:
 ![](https://media.giphy.com/media/EQw7LUeYrOMzthoXSC/giphy.gif)
 
 Example of Frogger winning the level and transitioning to the "YOU WON" screen:
-![](![](https://media.giphy.com/media/w7WZft8znYU7P13PB7/giphy.gif)
+![](https://media.giphy.com/media/HLIA0d91PHEc055qg1/giphy.gif)
 
 ## Car Movement and Spawning
 Car speed is manipulated within Unity, and at first the cars would simply spawn whenever needed. However, this filled up the Hierarchy window within Unity quickly, so object pooling was implemented to keep the cars at a fixed amount of 10 (which can also be manipulated within Unity). Now only 10 cars will ever be present at a time, with the oldest car being moved to where a new car is needed. This de-clutters the Hierarchy window as well as prevents lag from happening. 
