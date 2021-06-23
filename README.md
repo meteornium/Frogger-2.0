@@ -31,6 +31,9 @@ Close up of Hierarchy tab:
 ## Spritework
 The frog, car, and yellow lines were all made by me within Aseperite.
 
+![image](https://user-images.githubusercontent.com/79771326/123156059-b625c200-d41d-11eb-98a0-aeb45e0ae01a.png)
+
+
 ## Timer and Score
 In order to add extra difficulty, a timer was added to incentivise the player to move forward. Timer can be manipulated within Unity. A score function was added as well, and player scores are displayed on the end screen whether they win or lose. Future implementation will keep track of player high scores during a single session.
 
