@@ -6,7 +6,7 @@ First part of the project was creating the screens for Frogger. Each were made w
 
 ## Frogger Movement
 Player movement is controlled through the arrow keys. Scripts are included to prevent the player from exiting the scene and going off screen. Player is able to move up, down, left, and right and the goal is for them to avoid getting hit by cars in order to make it to the other side of the road.
-![](https://i.gyazo.com/f4890c038284816d8bb64797d9704bfe.mp4)
+![](https://media.giphy.com/media/EQw7LUeYrOMzthoXSC/giphy.gif)
 
 ## Car Movement and Spawning
 Car speed is manipulated within Unity, and at first the cars would simply spawn whenever needed. However, this filled up the Hierarchy window within Unity quickly, so object pooling was implemented to keep the cars at a fixed amount of 10 (which can also be manipulated within Unity). Now only 10 cars will ever be present at a time, with the oldest car being moved to where a new car is needed. This de-clutters the Hierarchy window as well as prevents lag from happening. 
