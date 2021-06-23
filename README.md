@@ -33,3 +33,7 @@ All spritework was created by me, and it was made within Aseprite. The frog, car
 
 ## Timer and Score
 In order to add extra difficulty, a timer was added to incentivise the player to move forward. Timer can be manipulated within Unity. A score function was added as well, and player scores are displayed on the end screen whether they win or lose. Future implementation will keep track of player high scores during a single session.
+
+![](https://media.giphy.com/media/VfeZCJpFXDgXbeWyIw/giphy.gif)
+
+![](https://media.giphy.com/media/J9BJ5u7wm3oJmWoH4y/giphy.gif)
