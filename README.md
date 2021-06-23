@@ -1,5 +1,5 @@
 # Unity-Live-Project
-Unity live project completed through The Tech Academy where I recreated Frogger in the Unity engine.
+Unity live project where I recreated Frogger in the Unity engine.
 
 ## Frogger Screens
 First part of the project was creating the screens for Frogger. Each were made within Unity, and movement between them was controlled by using buttons and a SceneLoader Prefab
