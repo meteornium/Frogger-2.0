@@ -17,8 +17,16 @@ Example of Frogger getting hit by a car and getting the "Game Over" screen:
 Example of Frogger winning the level and transitioning to the "YOU WIN!" screen:
 ![](https://media.giphy.com/media/HLIA0d91PHEc055qg1/giphy.gif)
 
-## Car Movement and Spawning
+## Car Movement and Spawning (Object Pooling)
 Car speed is manipulated within Unity, and at first the cars would simply spawn whenever needed. However, this filled up the Hierarchy window within Unity quickly, so object pooling was implemented to keep the cars at a fixed amount of 10 (which can also be manipulated within Unity). Now only 10 cars will ever be present at a time, with the oldest car being moved to where a new car is needed. This de-clutters the Hierarchy window as well as prevents lag from happening. 
+
+Example of cars spawning having a limit due to the object pooling. Shows that there are 10 preloaded car slots that can be filled, meaning only 10 cars can ever be present:
+
+![](https://media.giphy.com/media/lCUZPNmXmsdH80sJ0w/giphy.gif)
+
+Close up of Hierarchy tab:
+
+1[](https://media.giphy.com/media/gR1duHqnRXNJ0UnWMH/giphy.gif)
 
 ## Spritework
 All spritework was created by me, and it was made within Aseprite. The frog, car, and yellow lines were all made within Aseperite.
