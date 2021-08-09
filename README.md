@@ -1,4 +1,4 @@
-# Unity-Live-Project
+# Frogger 2.0
 Unity live project where Frogger was recreated in the Unity engine.
 
 ## Frogger Screens
