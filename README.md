@@ -1,5 +1,5 @@
 # Frogger 2.0
-Unity live project where Frogger was recreated in the Unity engine.
+PIGS Game Jam where I remade Frogger in Unity!
 
 ## Frogger Screens
 First part of the project was creating the screens for Frogger. Each were made within Unity, and movement between them was controlled by using buttons and a SceneLoader Prefab.
